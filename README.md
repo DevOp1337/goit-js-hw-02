@@ -1,1 +1,1 @@
-# goit-js-hw-02
+https://devop1337.github.io/goit-js-hw-02/
